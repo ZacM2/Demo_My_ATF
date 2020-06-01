@@ -1,4 +1,4 @@
-# cvs-auto-vtm
+# cvs-auto-myatf
 
 A. For running tests locally
 * Create a serenity.conf(do not add it to git versioning) file in src/test/resources containing the following
